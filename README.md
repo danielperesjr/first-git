@@ -1,5 +1,5 @@
 # Project Name
-> Um resumo curto sobre o que projeto o faz (até duas linhas).
+> Um resumo curto sobre o que o projeto faz (até duas linhas).
 
  Um ou dois parágrafos sobre o que o projeto faz.
 
