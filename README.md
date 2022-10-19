@@ -47,6 +47,7 @@
 ## Meta
 
 Seu nome - [@SeuTwitter](https://twittwe.com/danielperesjr) - exemplo@exemplo.com
-Distribuído sobre a licença XYZ. 
-Veja `LICENÇA` para mais informações.
+
+Distribuído sobre a licença XYZ. Veja `LICENÇA` para mais informações.
+
 [https://github.com/danielperesjr/first-git](https://github.com/danielperesjr)
