@@ -1,5 +1,5 @@
 # Project Name
-> Um resumo curto sobre o que projeto faz (até duas linhas).
+> Um resumo curto sobre o que projeto o faz (até duas linhas).
 
  Um ou dois parágrafos sobre o que o projeto faz.
 
@@ -47,5 +47,6 @@
 ## Meta
 
 Seu nome - [@SeuTwitter](https://twittwe.com/danielperesjr) - exemplo@exemplo.com
-Distribuído sobre a licença. Veja `LICENÇA` para mais informações.
+Distribuído sobre a licença XYZ. 
+Veja `LICENÇA` para mais informações.
 [https://github.com/danielperesjr/first-git](https://github.com/danielperesjr)
